@@ -6,7 +6,7 @@ Repositório criado exclusivamente com todos os arquivos usados no clone de land
 
 Os conteúdos presentes neste repositório é resultado de participação do curso intensivo de JavaScript para formação Full Stack na [OneBitCode](https://programador.onebitcode.com/?ref=C54036552P&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiNSdBfAhhOEso2OMEo-fPo9DxKOc8b87FOsZOL5kuMRGI1XjV1EaXQaAtX3EALw_wcB) 🤘.
 
-Nele foi possivel ter conhecimentos fundamentais em HTML5, CSS3, SASS, Bootstrap.
+Nele foi possível ter conhecimentos fundamentais em HTML5, CSS3, SASS, Bootstrap.
 
 Veja o projeto aqui -> [Clone SpaceX - OneBitX - Petrus Borges](https://petrusborges-onebitx.netlify.app)
 
