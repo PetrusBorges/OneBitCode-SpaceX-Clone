@@ -8,7 +8,7 @@ Os conteúdos presentes neste repositório é resultado de participação do cur
 
 Nele foi possivel ter conhecimentos fundamentais em HTML5, CSS3, SASS, Bootstrap.
 
-Veja o projeto aqui - [Clone SpaceX - OneBitX - Petrus Borges](https://petrusborges-onebitx.netlify.app)
+Veja o projeto aqui -> [Clone SpaceX - OneBitX - Petrus Borges](https://petrusborges-onebitx.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/105453766/175282381-fe122db1-afcd-4686-a724-185b06e2af31.png)
 
