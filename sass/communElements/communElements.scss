@@ -1,0 +1,118 @@
+.header {
+  font-size: 12px;
+  font-weight: bold;
+
+  #navItem {
+    color: #aca7a7;
+
+    &:hover {
+      transition: all 300ms ease;
+      color: $link-hover;
+    }
+  }
+}
+
+.container00 {
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.arrowDown {
+  display: inline-block;
+  width: 90px;
+  margin-top: 5px;
+}
+
+.logoPC {
+  width: 240px;
+  margin-left: -10px;
+  margin-right: 40px;
+}
+
+#button {
+  padding: $padding-button;
+  border: 2px solid white;
+}
+
+.downloadDesc {
+  background-color: black;
+  height: 85vh;
+  padding-top: 240px;
+
+  button {
+    margin-right: 10px;
+
+    &:hover {
+      transition: all 300ms ease;
+      color: $link-hover;
+      border: 1px solid $link-hover;
+      background-color: transparent;
+    }
+  }
+}
+
+.emailOBC {
+  text-decoration: none;
+  color: $copy-color;
+  border-bottom: 1px solid $link-hover;
+  
+  &:hover {
+    transition: all 300ms ease;
+    color: $link-hover;
+    border-bottom: 1px solid $copy-color;
+  }
+}
+
+.footer {
+  background-color: black;
+  height: 15vh;
+  font-size: 12px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  a {
+    text-decoration: none;
+    color: $copy-color;
+
+    &:hover {
+      transition: all 300ms ease;
+      color: $link-hover;
+    }
+  }
+
+  .copyOBC {
+    color: $copy-color;
+  }
+}
+
+// Media query
+
+@media (max-width: 449px) {
+  .downloadDesc {
+    button {
+      margin: 10px 0px;
+    }
+  }
+}
+
+@media (max-width: 405px) {
+  .logoPC {
+    width: 180px;
+    margin-top: 15px;
+  }
+
+  .footer {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 350) {
+  .logoPC {
+    width: 150px;
+    margin-top: 15px;
+  }
+}
